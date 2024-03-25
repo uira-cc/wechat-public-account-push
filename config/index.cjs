@@ -114,7 +114,7 @@ const USER_CONFIG = {
       id: 'oHcKK5ucOq1VTvs_1IcWsG4k08gI',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       // 使用其他通道时，请填写 config/template-config.cjs 中某个想要使用的模板的id
-      useTemplateId: '1TWcwuxLkg2ejVRFDwuMir1pSCBHyBwax1Er_qKO3Js',
+      useTemplateId: 'S_RfA_ljnZuuUJhzFUyM4nFbBB4ztp03uhrel3sHbw0',
       // 所在省份或城市，也可以不填
       province: '',
       // 所在城市或县区
@@ -149,13 +149,13 @@ const USER_CONFIG = {
     },
      {
       // 想要发送的人的名字
-      name: '小妞小妞',
+      name: 'cc',
       // 使用微信测试号：扫码关注你的微信测试号后生成的一段字符串，在测试号后台能看到
       // 使用其他通道时，请严格按照各个通道的教程进行填写
       id: 'oHcKK5ucOq1VTvs_1IcWsG4k08gI',
       // 使用微信测试号：你想对他发送的模板消息的模板ID
       // 使用其他通道时，请填写 config/template-config.cjs 中某个想要使用的模板的id
-      useTemplateId: '1TWcwuxLkg2ejVRFDwuMir1pSCBHyBwax1Er_qKO3Js',
+      useTemplateId: 'S_RfA_ljnZuuUJhzFUyM4nFbBB4ztp03uhrel3sHbw0',
       // 所在省份或城市，也可以不填
       province: '',
       // 所在城市或县区
