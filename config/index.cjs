@@ -186,9 +186,9 @@ const USER_CONFIG = {
    * */
   
   // 默认所在省份, USERS 中没填的话, 会默认拿这里的省份
-  PROVINCE: '咸阳',
+  PROVINCE: '',
   // 默认所在城市, USERS 中没填的话, 会默认拿这里的城市
-  CITY: '长武',
+  CITY: '南平',
 
   /** 重要节日相关 */
 
@@ -245,7 +245,7 @@ const USER_CONFIG = {
     // 在一起的日子
     { keyword: 'love_day', date: '2022-09-08' },
     // 结婚纪念日
-    { keyword: 'marry_day', date: '2022-09-09' },
+    { keyword: 'marry_day', date: '2023-12-23' },
     // 退伍日
     { keyword: 'ex_day', date: '2022-09-10' }
     // 你可以不断按格式往下增加
